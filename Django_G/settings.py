@@ -25,7 +25,7 @@ SECRET_KEY = 'vnoav$mtf=3jph8lu*xirh2fm@n1xn_j4c^guew90mhq*^w)k6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [False]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
